@@ -4,15 +4,33 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+	<url>
+	  <loc>https://cursodemicroblading.info/</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.6</priority>
+	</url>
 
-<url>
-  <loc>https://cursodemicroblading.info/</loc>
-</url>
-<url>
-  <loc>https://cursodemicroblading.info/endora/</loc>
-</url>
-<url>
-  <loc>https://cursodemicroblading.info/phenixa/</loc>
-</url>
+	<url>
+	  <loc>https://cursodemicroblading.info/endora/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/phenixa/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/garanda/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+	
+	<url>
+	  <loc>https://cursodemicroblading.info/jinada/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
 </urlset>
