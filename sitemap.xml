@@ -33,4 +33,28 @@
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
 	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/raghata/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/aiysha/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/nidori/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+	
+	<url>
+	  <loc>https://cursodemicroblading.info/kamuda/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
 </urlset>
