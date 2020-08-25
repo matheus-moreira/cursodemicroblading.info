@@ -69,4 +69,10 @@
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
 	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/magiska/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
 </urlset>
