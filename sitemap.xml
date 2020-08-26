@@ -75,4 +75,22 @@
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
 	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/jimna/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/trendika/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/koosta/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
 </urlset>
