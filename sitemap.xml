@@ -93,4 +93,34 @@
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
 	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/jiira/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/sula/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/cadira/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/getta/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/pasada/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
 </urlset>
