@@ -101,12 +101,6 @@
 	</url>
 
 	<url>
-	  <loc>https://cursodemicroblading.info/sula/</loc>
-	  <changefreq>daily</changefreq>
-	  <priority>1</priority>
-	</url>
-
-	<url>
 	  <loc>https://cursodemicroblading.info/cadira/</loc>
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
@@ -120,6 +114,12 @@
 
 	<url>
 	  <loc>https://cursodemicroblading.info/pasada/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/sada/</loc>
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
 	</url>
