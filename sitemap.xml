@@ -123,4 +123,16 @@
 	  <changefreq>daily</changefreq>
 	  <priority>1</priority>
 	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/pixar/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
+
+	<url>
+	  <loc>https://cursodemicroblading.info/namiza/</loc>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
+	</url>
 </urlset>
